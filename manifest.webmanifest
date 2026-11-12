@@ -1,0 +1,13 @@
+{
+  "name": "Vardagsmaten",
+  "short_name": "Vardagsmaten",
+  "lang": "sv",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#3f7d3a",
+  "icons": [
+    { "src": "ikon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "ikon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

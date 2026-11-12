@@ -1,0 +1,39 @@
+{
+  "id": "palak-paneer",
+  "titel": "Palak paneer med tomat och halloumi",
+  "portioner": 4,
+  "tid": "30 min",
+  "bild": "",
+  "kalla": {
+    "namn": "ICA.se",
+    "url": "https://www.ica.se/recept/palak-paneer-med-tomat-och-halloumi-722056/"
+  },
+  "taggar": ["Vegetarisk", "Vardag"],
+  "ingredienser": [
+    { "mangd": 4, "enhet": "port", "namn": "ris eller havreris" },
+    { "mangd": 1, "enhet": "", "namn": "gul lök eller schalottenlök" },
+    { "mangd": 2, "enhet": "", "namn": "vitlöksklyftor" },
+    { "mangd": 2, "enhet": "", "namn": "tomater" },
+    { "mangd": 2, "enhet": "msk", "namn": "riven ingefära" },
+    { "mangd": 3, "enhet": "msk", "namn": "olivolja" },
+    { "mangd": 2, "enhet": "msk", "namn": "tomatpuré" },
+    { "mangd": 1, "enhet": "msk", "namn": "garam masala" },
+    { "mangd": 390, "enhet": "g", "namn": "krossade tomater" },
+    { "mangd": 1, "enhet": "dl", "namn": "vatten" },
+    { "mangd": 2, "enhet": "dl", "namn": "vispgrädde" },
+    { "mangd": 1, "enhet": "", "namn": "grönsaksbuljongtärning" },
+    { "mangd": 200, "enhet": "g", "namn": "färsk spenat" },
+    { "mangd": 400, "enhet": "g", "namn": "halloumi eller grillost" },
+    { "mangd": 2, "enhet": "krm", "namn": "salt" }
+  ],
+  "steg": [
+    { "text": "Koka riset enligt anvisningen på förpackningen." },
+    { "text": "Skala lök och vitlök. Skär gula löken och tomaterna i klyftor. Skiva vitlöken. Skala och riv ingefäran fint." },
+    { "text": "Hetta upp hälften av olivoljan i en stekgryta. Fräs lök, vitlök, ingefära, tomatpuré och garam masala.", "tid": "3–4 min" },
+    { "text": "Tillsätt tomater, krossade tomater, vatten, grädde och smulad buljongtärning. Låt sjuda. Vänd ner spenaten.", "tid": "6–7 min" },
+    { "text": "Skär osten i tärningar och stek dem gyllene i resten av olivoljan." },
+    { "text": "Blanda ner osten i grytan och smaka av med salt. Servera med ris." }
+  ],
+  "tips": "Fryst bladspenat går bra i stället för färsk.",
+  "tillagd": "2026-11-12"
+}
