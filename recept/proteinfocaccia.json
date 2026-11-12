@@ -1,0 +1,37 @@
+{
+  "id": "proteinfocaccia",
+  "titel": "Proteinfocaccia med körsbärstomater och rosmarin",
+  "portioner": 6,
+  "tid": "1 tim",
+  "bild": "",
+  "kalla": {
+    "namn": "Instagram @johannescullberg",
+    "url": "https://www.instagram.com/reel/Dfh_Rv_pLGp/"
+  },
+  "taggar": ["Bröd", "Vegetarisk", "Glutenfritt", "Proteinrikt"],
+  "ingredienser": [
+    { "mangd": 450, "enhet": "g", "namn": "keso" },
+    { "mangd": 4, "enhet": "", "namn": "ägg" },
+    { "mangd": 150, "enhet": "g", "namn": "glutenfria havregryn" },
+    { "mangd": 100, "enhet": "g", "namn": "mandelmjöl" },
+    { "mangd": 5, "enhet": "g", "namn": "fiberhusk (psyllium)" },
+    { "mangd": 2, "enhet": "tsk", "namn": "bakpulver" },
+    { "mangd": 1, "enhet": "tsk", "namn": "salt" },
+    { "mangd": 2, "enhet": "msk", "namn": "olivolja" },
+    { "mangd": 15, "enhet": "", "namn": "körsbärstomater, halverade", "gissning": true },
+    { "mangd": 2, "enhet": "", "namn": "kvistar färsk rosmarin", "gissning": true },
+    { "mangd": 1, "enhet": "tsk", "namn": "flingsalt", "gissning": true }
+  ],
+  "steg": [
+    { "text": "Låt keson rinna av i en sil.", "tid": "10 min" },
+    { "text": "Mixa keso, ägg och havregryn helt slätt." },
+    { "text": "Rör ner mandelmjöl, fiberhusk, bakpulver och salt. Låt smeten vila.", "tid": "5 min" },
+    { "text": "Klä en form (ca 20 × 25 cm) med bakplåtspapper och fördela 1 msk olivolja i botten. Bred ut smeten." },
+    { "text": "Ringla över resten av olivoljan och gör försiktigt gropar med fingrarna. Toppa med halverade körsbärstomater, rosmarin och flingsalt." },
+    { "text": "Grädda mitt i ugnen på 190 °C (över- och undervärme). Med glasform: 175 °C i 45–55 min. Kontrollera att mitten är genomgräddad.", "tid": "40–45 min" },
+    { "text": "Låt svalna helt innan du skär upp brödet." }
+  ],
+  "tips": "Frukosttips: toppa en bit med två ägg så blir det över 30 g protein. En bit ger ca 21 g protein och 5 g fiber (enligt originalet).",
+  "gissningar": "Originalet anger 6 bitar, så receptet utgår från 6 portioner. Mängd körsbärstomater, rosmarin och flingsalt stod inte, de är Claudes uppskattning. Total tid är uppskattad.",
+  "tillagd": "2026-11-12"
+}
