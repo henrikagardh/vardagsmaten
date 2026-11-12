@@ -1,0 +1,35 @@
+{
+  "id": "jordnotsnudlar-gochujangfars",
+  "titel": "Krämiga jordnötsnudlar med gochujangfärs",
+  "portioner": 4,
+  "tid": "20 min",
+  "bild": "",
+  "kalla": {
+    "namn": "Instagram @antonekefall",
+    "url": "https://www.instagram.com/reel/Dd6Z30auT8B/"
+  },
+  "taggar": ["Asiatiskt", "Snabbt", "Lite starkt"],
+  "ingredienser": [
+    { "mangd": 500, "enhet": "g", "namn": "färs (t.ex. nötfärs)", "gissning": true },
+    { "mangd": 250, "enhet": "g", "namn": "nudlar", "gissning": true },
+    { "mangd": 2, "enhet": "msk", "namn": "gochujang", "gissning": true },
+    { "mangd": 3, "enhet": "", "namn": "vitlöksklyftor (2 till färsen, 1 till såsen)", "gissning": true },
+    { "mangd": 1, "enhet": "msk", "namn": "honung", "gissning": true },
+    { "mangd": 2, "enhet": "msk", "namn": "kinesisk soja", "gissning": true },
+    { "mangd": 1, "enhet": "dl", "namn": "jordnötssmör", "gissning": true },
+    { "mangd": 2, "enhet": "msk", "namn": "ketjap manis (eller mörk soja)", "gissning": true },
+    { "mangd": 1, "enhet": "", "namn": "lime, saften", "gissning": true },
+    { "mangd": 1, "enhet": "dl", "namn": "nudelvatten", "gissning": true },
+    { "mangd": 1, "enhet": "kruka", "namn": "koriander", "gissning": true },
+    { "mangd": 1, "enhet": "dl", "namn": "jordnötter, grovhackade", "gissning": true }
+  ],
+  "steg": [
+    { "text": "Stek färsen ordentligt i en het panna tills den får fin stekyta." },
+    { "text": "Tillsätt gochujang, pressad vitlök, honung och soja. Stek ihop tills allt fått fin färg." },
+    { "text": "Koka nudlarna enligt förpackningen. Spara lite av nudelvattnet." },
+    { "text": "Blanda jordnötssmör, limesaft, ketjap manis, vitlök och lite nudelvatten till en krämig sås." },
+    { "text": "Vänd ner nudlarna i såsen. Toppa med färsen, koriander och jordnötter." }
+  ],
+  "gissningar": "Originalet listar bara ingredienserna utan mått (exakta mått finns i skaparens betalapp). Alla mängder och tiden är Claudes uppskattning för 4 portioner.",
+  "tillagd": "2026-11-12"
+}
